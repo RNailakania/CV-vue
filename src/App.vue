@@ -5,7 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/kania.png" width="205" height="205" />
+    <img alt="Vue logo" class="logo" src="@/assets/kania.png" width="200" height="200" />
 
     <div class="wrapper">
       <HelloWorld msg="R.Naila Kania Widia" />

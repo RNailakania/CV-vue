@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <div class="item">
     <i>
       <slot name="icon"></slot>
@@ -10,7 +10,7 @@
       <slot></slot>
     </div>
   </div>
-</template>
+</template> -->
 
 <style scoped>
 .item {

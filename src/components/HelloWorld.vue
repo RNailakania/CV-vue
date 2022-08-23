@@ -11,7 +11,7 @@ defineProps<{
       Software Developer
       <p><a target="_blank" href="https://instagram.com/inikaniia_?igshid=YmMyMTA2M2Y=">@inikaniia_</a></p> 
       <p> <a target="_blank" href="https://github.com/RNailakania">RNailakania</a></p>
-      <p> <a target="_blank" href="https://vuejs.org/">nailakaniawidia@gmail.com</a></p>
+      <p> nailakaniawidia@gmail.com</p>
     </h3>
   </div>
 </template>
